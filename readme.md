@@ -8,3 +8,4 @@ Clone this repository and run
      **Enter two values to compute Modular Multiplicative Inverse for e.g 10 17
      10 17
      Modular Multiplicative inverse of 10 and 17 = 12 
+ 
